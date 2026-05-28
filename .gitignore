@@ -1,0 +1,14 @@
+# 系统目录
+$RECYCLE.BIN/
+System Volume Information/
+
+# VS Code 安装
+Microsoft VS Code/
+
+# 大文件/视频
+视频成品/
+素材/
+
+# 系统文件
+desktop.ini
+Thumbs.db
